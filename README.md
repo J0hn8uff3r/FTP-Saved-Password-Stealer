@@ -8,6 +8,7 @@ Chrome Stealer
 
 Mozilla Stealer
 
+Opera Stealer
 
 *************TODO*************
 
