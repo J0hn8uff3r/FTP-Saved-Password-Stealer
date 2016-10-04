@@ -11,4 +11,6 @@ Mozilla Stealer
 
 *************TODO*************
 
-Add WiFi pass regedit stealer
+Add WiFi Passwords Stealer
+
+And more...
