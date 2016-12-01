@@ -17,6 +17,8 @@ Opera Stealer
 
 *************TODO*************
 
-Add WiFi Passwords Stealer
+Add WiFi Regedit Passwords Stealer
+
+
 
 And more...
